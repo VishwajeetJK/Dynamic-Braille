@@ -6,20 +6,19 @@
 
 = Project: Dynamic Braille with Arduino UNO
 
-Describe your project
+In this project, I attempt to create a dynamic system which will help
+not only the blind but also the blind-deaf people who suffer more since
+they cannot gain knowledge either through vision nor audio. We have
+recreated the braille system using servo motors which has given a
+optimised working compared to DC motors. We use the Arduino uno to
+program this system and display an alphabetic string on the dynamic
+braille system.
 
-== Step 1: Installation
-Please describe the steps to install this project.
-
-For example:
-
-1. Open this file
-2. Edit as you like
-3. Release to the World!
-
-== Step 2: Assemble the circuit
+Assemble the circuit
 
 Assemble the circuit following the diagram layout.png attached to the sketch
+![Image of ASSIST-ME](https://github.com/VishwajeetJK/ASSIST-ME---HackMIT-Project/blob/master/Screen%20Shot%202020-09-20%20at%204.59.04%20PM.png)
+
 
 == Step 3: Load the code
 
