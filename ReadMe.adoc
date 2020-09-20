@@ -19,7 +19,9 @@ braille system.
 Assemble the circuit
 
 Assemble the circuit following the diagram layout.png attached to the sketch
-![Image of ASSIST-ME](https://github.com/VishwajeetJK/Dynamic-Braille/blob/master/Screen%20Shot%202020-09-20%20at%2011.42.38%20PM.png)
+
+
+![Image of Circuit](https://github.com/VishwajeetJK/Dynamic-Braille/blob/master/Screen%20Shot%202020-09-20%20at%2011.42.38%20PM.png)
 
 
 == Step 3: Load the code
