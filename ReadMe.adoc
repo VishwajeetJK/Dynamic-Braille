@@ -14,7 +14,6 @@ optimised working compared to DC motors. We use the Arduino uno to
 program this system and display an alphabetic string on the dynamic
 braille system.
 
-![LOGO of ASSIST-ME](https://github.com/VishwajeetJK/HackMIT_Project/blob/master/Component%201.png)
 ![Image of Dynamic-Braille](https://github.com/VishwajeetJK/Dynamic-Braille/blob/master/Screen%20Shot%202020-09-20%20at%2011.41.54%20PM.png)
 
 Assemble the circuit
