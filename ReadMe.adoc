@@ -15,7 +15,7 @@ program this system and display an alphabetic string on the dynamic
 braille system.
 
 <p align="center">
-    <image src="Screen%20Shot%202020-09-20%20at%2011.41.54%20PM.png">
+    <image src="master/Screen%20Shot%202020-09-20%20at%2011.41.54%20PM.png">
 </p> 
 
 # Assemble the circuit using below diagram:
